@@ -1,7 +1,8 @@
-# FELIX GEORGEAULT
-## Student at 19 Brussels (42 network)
+#   FELIX GEORGEAULT
+### Student at 19 Brussels (42 network)
 
 <p><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/stats?cursusId=21&coalitionId=52" alt="fgeorgea's 42 stats" /></a></p>
+
 <table>
         <thead>
         <tr>
