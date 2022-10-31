@@ -11,6 +11,9 @@
           </thead>
           <tbody>
         <tr>
+          <td colspan="2">Circle 0</td>
+        </tr>
+        <tr>
           <td>Libft</td>
           <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/project/2817514" alt="fgeorgea's 42 Libft Score"/></a></td>
         </tr>
