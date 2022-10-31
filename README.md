@@ -1,17 +1,17 @@
-<div style=“height:100%;width:100%;display:flex;justify-content:space-around;“>
+<div style="height:100%;width:100%;display:flex;justify-content:space-around;">
   <table>
     <thead>
         <tr>
-          <th colspan=“2”>Projects | Circle 0 & circle 1</th>
+          <th colspan="2">Projects | Circle 0 & circle 1</th>
         </tr>
     </thead>
     <tbody>
         <tr>
           <td>Libft</td>
-          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/project/2817514" alt="fgeorgea's 42 Libft Score" /></a></td>
+          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/project/2817514" alt="fgeorgea's 42 Libft Score"/></a></td>
         </tr>
         <tr>
-          <td align=“center” colspan=“2">Circle 1</td>
+          <td colspan="2">Circle 1</td>
         </tr>
         <tr>
           <td>ft_printf</td>
