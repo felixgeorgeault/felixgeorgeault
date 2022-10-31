@@ -1,4 +1,4 @@
-<div class="big-wrapper" style="width:100%;height:100%;display:flex;justify-content:space-around;align-items:center;">
+<div class="big-wrapper" style="background-color:white;">
   <table>
     <thead>
         <tr>
