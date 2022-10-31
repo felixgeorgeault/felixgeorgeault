@@ -1,5 +1,5 @@
-<div class="big-wrapper" style="background-color:white;">
-  <table>
+<div class="big-wrapper">
+  <table style="margin-left:5rem;">
     <thead>
         <tr>
           <th colspan="2">Projects | Circle 0 & circle 1</th>
