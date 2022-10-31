@@ -1,4 +1,4 @@
-<div style="height:200px;width:100%;display:flex;justify-content:space-around;">
+<div style="height:250px;width:100%;display:flex;justify-content:space-around;align-items:center;">
   <table>
     <thead>
         <tr>
