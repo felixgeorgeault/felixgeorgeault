@@ -28,3 +28,4 @@
         </tr>
     </tbody>
   </table>
+  [![fgeorgea's 42 so_long Score](https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/project/2966599)](https://github.com/JaeSeoKim/badge42)
