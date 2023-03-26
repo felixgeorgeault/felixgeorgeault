@@ -26,6 +26,9 @@
           <td>Born2beroot</td>
           <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/project/2834111" alt="fgeorgea's 42 Born2beroot Score" /></a></td>
         </tr>
+        <tr>
+          <td>So_long</td>
+          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/project/2966599" alt="fgeorgea's 42 so_long Score" /></a></td>
+        </tr>
     </tbody>
   </table>
-  [![fgeorgea's 42 so_long Score](https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/project/2966599)](https://github.com/JaeSeoKim/badge42)
