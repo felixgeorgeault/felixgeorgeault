@@ -2,7 +2,7 @@
 ### Student at 19 Brussels (42 network)
 
 <p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/stats?cursusId=21&coalitionId=52" alt="fgeorgea's 42 stats" /></a></p>
-<div style="display:flex; justify-content:center; align-items:center; width=100%;">
+<div style="display:flex; justify-content:center; align-items:center; width=100vw">
 <table>
         <thead>
         <tr>
