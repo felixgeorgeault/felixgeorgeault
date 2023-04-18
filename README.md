@@ -45,6 +45,10 @@
           <td>Push_swap</td>
           <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/project/3016846" alt="fgeorgea's 42 push_swap Score" /></a></td>
         </tr>
+                  <tr>
+          <td>Pipex</td>
+          <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9wz0yjx00400fmj9wvknyyb/project/3037632" alt="fgeorgea's 42 pipex Score" /></a></td>
+        </tr>
     </tbody>
   </table></td>
                 </tr>
